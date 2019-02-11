@@ -1,11 +1,10 @@
-# Arabic Handwritten Digits Classification TF
-This folder contains an example application using TensorFlow for Android devices.This application used to classify and recognize Arabic
-handwritten digits based on the training python model on this [link](https://github.com/maidaly/Machine-Learning/tree/master/Python%20Models). In the traning I used MADBase
-(Modified ArabicHandwritten Digits Databases) dataset. The dataset is available for free and can be downloaded from (http://datacenter.aucegypt.edu/shazeem/) .
+# Android App for Arabic Handwritten Digits Recognition
 
-![Image](https://github.com/maidaly/Machine-Learning/blob/master/android%20apps/Images/arabic_digits_demo.JPG)
+<p align="center"><img src="assets/recognizing_arabic_digit.gif"></p>
 
-[Here](https://github.com/maidaly/Machine-Learning/tree/master/android%20apps/Images/Arabic_digits_app_screenshots) are more app screenshots. 
+This repo contains a demo android application using TensorFlow for Android devices.This application used to classify and recognize Arabic
+handwritten digits based on trained CNN python model using tensorflow as a framework and Keras on the top of it. In the traning I used MADBase
+(Modified ArabicHandwritten Digits Databases) dataset. The dataset is available for free and can be downloaded from [here](http://datacenter.aucegypt.edu/shazeem/) .
 
 The app was tested on android 5 device with API 21.
-More information about using tensorflow can be found here : https://www.tensorflow.org/versions/master/tutorials/ .
+More information about using tensorflow can be found [here](https://www.tensorflow.org/versions/master/tutorials/).
