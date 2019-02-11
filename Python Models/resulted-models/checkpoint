@@ -1,0 +1,2 @@
+model_checkpoint_path: "arabic_digits_classifier_keras.chkp"
+all_model_checkpoint_paths: "arabic_digits_classifier_keras.chkp"
